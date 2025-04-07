@@ -169,4 +169,4 @@ Didistribusikan di bawah lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanj
 
 ## Kontak
 
-Email: info@greengarden.com
+Email: ahmadsyahrmdn@gmail.com
