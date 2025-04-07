@@ -24,7 +24,7 @@ Sebelum memulai, pastikan Anda telah menginstal:
 1. **Clone repository** (atau download dan ekstrak ZIP):
 
 ```bash
-git clone https://github.com/username/green-garden.git
+git clone [https://github.com/username/green-garden.git](https://github.com/ahmadsyah28/GreenGarden.git)
 cd green-garden
 ```
 
@@ -92,7 +92,7 @@ green-garden/
 ## Akses Role
 
 1. **Guest** (Pengunjung):
-   - Melihat halaman beranda, tentang kami, dan produk
+   - Melihat halaman beranda, layanan(tanaman hias, desain taman, perawatan taman),  blog, kontak
    - Register dan login
 
 2. **Pelanggan**:
