@@ -24,7 +24,7 @@ Sebelum memulai, pastikan Anda telah menginstal:
 1. **Clone repository** (atau download dan ekstrak ZIP):
 
 ```bash
-git clone [https://github.com/username/green-garden.git](https://github.com/ahmadsyah28/GreenGarden.git)
+git clone https://github.com/username/green-garden.git
 cd green-garden
 ```
 
