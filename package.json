@@ -1,0 +1,25 @@
+{
+  "name": "green-garden",
+  "version": "1.0.0",
+  "description": "Website taman dan tanaman menggunakan MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "nodemon server/server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "install-deps": "npm install && cd client && npm install"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "node",
+    "mongodb",
+    "express"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^7.6.0"
+  }
+}
